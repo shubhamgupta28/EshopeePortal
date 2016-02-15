@@ -1,0 +1,16 @@
+c:\users\praful\documents\visual studio 2010\Projects\eShopee2\eShopee2\bin\eShopee2.dll
+c:\users\praful\documents\visual studio 2010\Projects\eShopee2\eShopee2\bin\eShopee2.pdb
+c:\users\praful\documents\visual studio 2010\Projects\eShopee2\eShopee2\obj\Debug\ResolveAssemblyReference.cache
+c:\users\praful\documents\visual studio 2010\Projects\eShopee2\eShopee2\obj\Debug\eShopee2.dll
+c:\users\praful\documents\visual studio 2010\Projects\eShopee2\eShopee2\obj\Debug\eShopee2.pdb
+C:\Users\Praful\Desktop\eShopee2\eShopee2\bin\eShopee2.dll
+C:\Users\Praful\Desktop\eShopee2\eShopee2\bin\eShopee2.pdb
+C:\Users\Praful\Desktop\eShopee2\eShopee2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Praful\Desktop\eShopee2\eShopee2\obj\Debug\eShopee2.dll
+C:\Users\Praful\Desktop\eShopee2\eShopee2\obj\Debug\eShopee2.pdb
+C:\Users\shubh\Desktop\Internship\Ebay\eShopee2\eShopee2\bin\eShopee2.dll.config
+C:\Users\shubh\Desktop\Internship\Ebay\eShopee2\eShopee2\bin\eShopee2.dll
+C:\Users\shubh\Desktop\Internship\Ebay\eShopee2\eShopee2\bin\eShopee2.pdb
+C:\Users\shubh\Desktop\Internship\Ebay\eShopee2\eShopee2\obj\Debug\eShopee2.csprojResolveAssemblyReference.cache
+C:\Users\shubh\Desktop\Internship\Ebay\eShopee2\eShopee2\obj\Debug\eShopee2.dll
+C:\Users\shubh\Desktop\Internship\Ebay\eShopee2\eShopee2\obj\Debug\eShopee2.pdb
